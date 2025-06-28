@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ShubhamPanwar00121
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C# and C++ as learing is a continuous process
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m Unity game developer with proven experience in mobile games
+- checkout my work in my public repos
+- 💞️ I’m looking to collaborate on interesting game development projects
 - 📫 How to reach me - send me mail on shubhampanwar2527@gmail.com or sp3542776@gmail.com
 
 <!---
